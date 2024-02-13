@@ -118,7 +118,7 @@ const DashboardStats = () => {
           <div className=" flex items-center justify-between flex-wrap">
             <h1 className=" font-bold text-xl text-blue-900">Parameters</h1>
             <p className="md:text-lg text-gray-600">
-              Tweek the parameters to get forecast
+              Tweak the parameters to get forecast
             </p>
           </div>
 
