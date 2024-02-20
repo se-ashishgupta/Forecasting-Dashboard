@@ -7,7 +7,7 @@ const Navbar = ({ setToggleSodebar }) => {
       <div className=" flex items-center gap-2">
         {
           <span
-            className=" md:hidden text-3xl text-white cursor-pointer"
+            className=" xl:hidden text-3xl text-white cursor-pointer"
             onClick={() => setToggleSodebar((prev) => !prev)}
           >
             <MdMenu />
